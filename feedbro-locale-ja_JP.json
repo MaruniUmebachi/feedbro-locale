@@ -6,8 +6,8 @@
         "locale_type": "ja_JP",
         "locale_last_updated": "2026-09-17 12:00:00 JST",
         "locale_author_name": "MaruniUmebachi",
-        "locale_author_email": "example@example.jp",
-        "locale_source_url": "https://example.com/feedbro/"
+        "locale_author_email": "89809683+MaruniUmebachi@users.noreply.github.com",
+        "locale_source_url": "https://raw.githubusercontent.com/MaruniUmebachi/feedbro-locale/refs/heads/master/feedbro-locale-ja_JP.json"
     },
     "addfeed_url_body": "フィードURL",
     "addfeed_load_body": "読み込む",
@@ -15,7 +15,7 @@
     "addfeed_latestentry_body": "最新エントリ",
     "addfeed_status_body": "ステータス",
     "addfeed_maxitems_body": "保存する最大エントリ数",
-    "addfeed_maxitems_select_title": "一つのフィードから保存するエントリ（記事）の最大数です。古い記事から順に自動削除されます。",
+    "addfeed_maxitems_select_title": "一つのフィードから保存するエントリ（）の最大数です。古い記事から順に自動削除されます。",
     "addfeed_maxitems_default_body": "デフォルト",
     "addfeed_entrycontent_body": "フィードエントリの内容",
     "addfeed_entrycontent_select_title": "フィードエントリの内容を処理する方法を指定",
